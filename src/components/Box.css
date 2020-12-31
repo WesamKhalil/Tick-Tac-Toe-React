@@ -1,0 +1,21 @@
+.box {
+    height: auto;
+    width: auto;
+    margin: 0;
+    border: 5px black solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.X {
+    color: red;
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.O {
+    color: blue;
+    font-size: 60px;
+    font-weight: bold;
+}

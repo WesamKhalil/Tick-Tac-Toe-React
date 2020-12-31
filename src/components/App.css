@@ -1,0 +1,19 @@
+.app-cont {
+    width: 600px;
+    margin: 0 auto;
+}
+
+.subsection {
+    display: flex;
+    justify-content: space-between;
+}
+
+.history {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.history-button {
+    margin: 10px 0;
+}
